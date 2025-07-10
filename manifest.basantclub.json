@@ -1,0 +1,19 @@
+{
+	"manifest_version": 2,
+	"name": "Basantclub",
+	"version": "1.2",
+	"display": "standalone",
+	"background_color": "#fff",
+	"description": "Basantclub Game",
+	"icons": [
+		{
+			"src": "/basantclub@192.png",
+			"sizes": "192x192"
+		},
+		{
+			"src": "/basantclub@512.png",
+			"sizes": "512x512"
+		}
+	],
+	"start_url": "/#/"
+}
